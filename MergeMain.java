@@ -1,5 +1,3 @@
-//MOHD AFSAN AHMAD
-//ROLL NO 55.CSB
 //MERGE SORT
 import java.util.*;
 import java.io.*;
